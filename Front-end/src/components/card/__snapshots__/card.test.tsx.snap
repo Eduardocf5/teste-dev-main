@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render test 1`] = `
+<div
+  className="bg-white flex items-center cursor-pointer hover:shadow-inner p-4 rounded-md gap-9"
+>
+  <img
+    alt="icon"
+    className="rounded-full w-24"
+    src="https://img.elo7.com.br/product/zoom/3FFF8A3/matriz-de-bordado-pica-pau-matriz-picapau.jpg"
+  />
+  <div>
+    <div
+      className="text-lg"
+    >
+      Pica pau
+    </div>
+    <div
+      className="flex items-center gap-1"
+    >
+      <div
+        className="rounded-full undefined w-3 h-3"
+      />
+      <div>
+        Ave
+         - 
+        Picidae
+      </div>
+    </div>
+  </div>
+</div>
+`;
